@@ -1,0 +1,65 @@
+body{
+	background-color: #232323;
+
+}
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	margin:1.66%;
+	float: left;
+	border-radius: 70%;
+	transition: background 0.6s;
+	-webkit-transition:background 0.6s;
+	-moz-transition:background0.6s;
+}
+#container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+h1{
+	color:white;
+	text-align: center;
+
+background: #800000;
+margin: 0;
+padding-top: 30px;
+padding-bottom: 30px;
+
+
+
+}
+#message{
+	width: 20%;
+	display: inline-block;
+}
+#colordisplay{
+	font-size: 200%;
+}
+#stripe{
+	height: 30px;
+	text-align: center;
+	background: #008080;
+	padding-top:10px;
+}
+.bt{
+	background: lightblue;
+}
+
+button{
+	border:none;
+	text-transform: uppercase;
+	font-size: 18px;
+	transition: all 2.0;
+	
+}
+button:hover{
+	background-color: steelblue;
+}
+#theme{
+background:#4C4646;
+}
+
+#reset{
+	background:#FFDB58;
+}
